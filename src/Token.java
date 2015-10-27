@@ -36,18 +36,5 @@ public class Token {
     }
 }
 
-enum TokenType {
-    Integer,
-    Addition,
-    Subtraction,
-    Multiplication,
-    Division,
-    Modulus,
-    Exponent,
-    Assignment,
-    Terminator,
-    Quit,
-    Variable,
-    Unknown,
-}
+
 
