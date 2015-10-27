@@ -1,3 +1,5 @@
+// Calculator Compiler for Professor Sorenson's Organization of Programming Languages
+// Bret Mattingly, Jr.
 
 public class Main {
 
